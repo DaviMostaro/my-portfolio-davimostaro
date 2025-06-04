@@ -26,6 +26,7 @@ export const Projects = () => {
                     title="DevsFood"
                     description="Site de delivery de comida. Feito para fins de aprendizagem."
                     repository="https://github.com/DaviMostaro/devsfood"
+                    deploy="https://devsfood-eight.vercel.app/"
                 />
                 <ProjectItem
                     imagem="/assets/financial.png"
