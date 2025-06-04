@@ -32,18 +32,21 @@ export const Projects = () => {
                     title="Sistema Financeiro"
                     description="Sistema para controle financeiro pessoal com divisão por períodos. Feito para fins de aprendizagem."
                     repository="https://github.com/DaviMostaro/financial-system"
+                    deploy="https://financial-system.vercel.app/"
                 />
                 <ProjectItem
                     imagem="/assets/todo.png"
                     title="List de Tarefas"
                     description="Site para criar, editar e excluir tarefas. Feito para fins de aprendizagem."
                     repository="https://github.com/DaviMostaro/todo_list"
+                    deploy="https://todo-list-two-iota-70.vercel.app/"
                 />
                 <ProjectItem
                     imagem="/assets/shadcn.png"
                     title="Loja Shadcn"
                     description="Site de delivery de comida. Feito com componentes da biblioteca Shadcn."
                     repository="https://github.com/DaviMostaro/shadcn-store"
+                    deploy="https://shadcn-store.vercel.app/"
                 />
             </div>
         </div>
